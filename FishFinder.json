@@ -6,7 +6,7 @@
         "size" : "218 acres",
         "fish" : "Largemouth bass, Catfish, Walleye",
         "bait" : "Nightcrawlers, chicken liver, shrimp",
-        "image": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/BurkeLake.jpeg",
+        "imageName": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/BurkeLake.jpeg",
         "site" : "https://license.gooutdoorsvirginia.com/Licensing/CustomerLookup.aspx"},
         
         {"name" : "Claytor Lake State Park",
@@ -14,7 +14,7 @@
         "size" : "4,363 acres",
         "fish" : "Small and Largemouth bass, Spotted Bass, Hybrid Striped Bass",
         "bait" : "Gizzard Shad and Alewife",
-        "image": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/ClaytorLake.jpeg",
+        "imageName": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/ClaytorLake.jpeg",
         "site" : "https://license.gooutdoorsvirginia.com/Licensing/CustomerLookup.aspx"},
         
         
@@ -23,7 +23,7 @@
         "size" : "50 acres",
         "fish" : "Rainbow Trout, Brown Trout, and Brook Trout.",
         "bait" : "Minows, Worms",
-        "image": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/DouthatLake.jpeg",
+        "imageName": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/DouthatLake.jpeg",
         "site" : "https://license.gooutdoorsvirginia.com/Licensing/CustomerLookup.aspx"},
         
         {"name" : "Hungry Mother State Park",
@@ -31,7 +31,7 @@
         "size" : "108 acres",
         "fish" : "Walleyes, Alewives, Bass",
         "bait" : "Nightcrawlers, Chicken liver",
-        "image": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/HungryMotherLake.jpeg",
+        "imageName": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/HungryMotherLake.jpeg",
         "site" : "https://license.gooutdoorsvirginia.com/Licensing/CustomerLookup.aspx"},
         
         {"name" : "Smith Mountain Lake State Park",
@@ -39,7 +39,7 @@
         "size" : "20,600 acres",
         "fish" : "Bass, catfish, crappie",
         "bait" : "Alewife, Threadfin, Gizzard shard",
-        "image": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/SmithMountain.jpeg",
+        "imageName": "https://raw.githubusercontent.com/almasrihub/FishFinder/main/SmithMountain.jpeg",
         "site" : "https://license.gooutdoorsvirginia.com/Licensing/CustomerLookup.aspx"}
 
 
