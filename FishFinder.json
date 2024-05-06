@@ -1,0 +1,43 @@
+{
+    "FishFinder":
+    [
+        {"name":"Burke Lake Park",
+        "description":"A lake surrounded with a fishing shoreline of 5.25 miles and a trail that loops around the lake starting at the parking lot.",
+        "size" : "218 acres",
+        "fish" : "Largemouth bass, Catfish, Walleye",
+        "bait" : "Nightcrawlers, chicken liver, shrimp",
+        "image" : "https://raw.githubusercontent.com/almasrihub/FishFinder/main/BurkeLake.jpeg",
+        "site" : "https://license.gooutdoorsvirginia.com/Licensing/CustomerLookup.aspx"},
+        
+        {"name" : "Claytor Lake State Park",
+        "description" : "Known for sport fishing and boating, the park has a full-service marina with docking slips, boat rentals, and refreshments",
+        "size" : "4,363 acres",
+        "fish" : "Small and Largemouth bass, Spotted Bass, Hybrid Striped Bass",
+        "bait" : "Gizzard Shad and Alewife",
+        "image" : "https://raw.githubusercontent.com/almasrihub/FishFinder/main/ClaytorLake.jpeg"},
+        
+        {"name" : "Douthat State Park",
+        "description" : "A family park listed on the Natinal Register of Historic Places. Visitors can enjoy interpretive programs, a 43 mile hiking trail, mountain biking, and picnic areas.",
+        "size" : "50 acres",
+        "fish" : "Rainbow Trout, Brown Trout, and Brook Trout.",
+        "bait" : "Minows, Worms",
+        "image" : "https://raw.githubusercontent.com/almasrihub/FishFinder/main/DouthatLake.jpeg"},
+        
+        {"name" : "Hungry Mother State Park",
+        "description" : "One of the original six Virginia State Parks, Hungry Mother is known for beautiful woodlands and the 108 acre lake in the heart.",
+        "size" : "108 acres",
+        "fish" : "Walleyes, Alewives, Bass",
+        "bait" : "Nightcrawlers, Chicken liver",
+        "image" : "https://raw.githubusercontent.com/almasrihub/FishFinder/main/HungryMotherLake.jpeg"},
+        
+        {"name" : "Smith Mountain Lake State Park",
+        "description" : "Second largest freshwater lake in the state, this park contains a large amount of water activities such as swimming, boat rentals and a fishing pier.",
+        "size" : "20,600 acres",
+        "fish" : "Bass, catfish, crappie",
+        "bait" : "Alewife, Threadfin, Gizzard shard",
+        "image" : "https://raw.githubusercontent.com/almasrihub/FishFinder/main/SmithMountain.jpeg"}
+
+
+    ]
+
+}
